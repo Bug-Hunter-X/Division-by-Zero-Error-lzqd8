@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates a common runtime error: division by zero.  The program attempts to divide an integer by zero, resulting in undefined behavior and, typically, a segmentation fault or crash.  The solution demonstrates how to prevent this error by adding error handling.
